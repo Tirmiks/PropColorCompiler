@@ -1,4 +1,4 @@
-# 🎉 NOW YOU CAN CHANGE COLOR FOR PROP_STATIC!
+## 🎉 NOW YOU CAN CHANGE COLOR FOR PROP_STATIC!
 
 ✨ I created a special tool that allow you to apply color to prop_static, similar to what is available in CS:GO! It will be very useful for those who create modifications based on the Source SDK 2013!
 
@@ -8,9 +8,9 @@ Advantages:
 - The tool does not recompile each model, which has a positive effect on speed!
 - Detailed log that will notify you about each stage!
 
-![изображение](/assets/propcolor-fire.gif)
+<img width=40% height=40% src="https://github.com/user-attachments/assets/c0a01683-cc1f-4f0f-9ba6-e438a536605b" />
 
-# INSTALLATION:
+## INSTALLATION:
 1. Drag the PropColorCompiler.exe and FGD file to the folder "Source SDK Base 2013 Singleplayer\bin\"
 2. Add the FGD file to the configuration via `Tools -> Options -> Add`
 3. Open the compilation presets via `Run Map! -> Expert...`

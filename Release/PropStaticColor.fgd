@@ -1,0 +1,16 @@
+//====== Copyright © 2025, Satjo Interactive, All rights reserved. ============
+//
+// Purpose: General game definition file (.fgd) 
+//
+//=============================================================================
+
+@include "base.fgd"
+@include "halflife2.fgd"
+
+@PointClass base(prop_static_base) color(255 255 0) sphere(fademindist) sphere(fademaxdist) studioprop() = prop_static :
+	"A prop that doesn't move and doesn't animate."
+[
+	rendercolor(color255) : "Color (R G B)" : "255 255 255"
+]
+
+

@@ -31,8 +31,7 @@ It will look like this:
 - There is a standard limit on the number of skins per model for painting. That is, one model can only be painted in 32 colors (The standart whit `rgb(255, 255, 255)` color is not considered!)*
 - The tool does not support gameinfo.txt and VPK files. All your content must be unarchived!
 
-> *This restriction does not apply to all cards, but to each one individually! If you have compiled a map with 32 props of different colors, then on the next one you will also be able to create 32 props with different colors!
-Subsequently, a video clip will be released on how to install the tool correctly. The source code will most likely be available only after the release of my project. 
+> *This restriction does not apply to all maps, but to each one individually! If you have compiled a map with 32 props of different colors, then on the next one you will also be able to create 32 props with different colors!
 
 ## Special thanks:
 - ugo_zapad - code tips, powerful support during development
